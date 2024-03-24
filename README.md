@@ -1,1 +1,1 @@
-#A system for adding stores with their number and product status of the store.
+Система добавления магазинов с их количеством товара и статусом магазина.
